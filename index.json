@@ -1,3 +1,8 @@
 {
-    
+    "libaccurate": {
+        "propername": "libaCCurate",
+        "description": "CC GUI library with touchscreen support",
+        "url": "https://github.com/electrovoyage/libaccurate/releases/latest",
+        "handler": "github"
+    }
 }
