@@ -4,14 +4,5 @@
         "description": "CC GUI library with touchscreen support",
         "url": "https://api.github.com/repos/electrovoyage/libaccurate/releases/latest",
         "handler": "github"
-    },
-    "deptest": {
-        "propername": "Dependency Test",
-        "description": "smots gaming",
-        "url": "https://api.github.com/repos/electrovoyage/libaccurate/releases/latest",
-        "handler": "github",
-        "dependencies": [
-            "libaccurate"
-        ]
     }
 }
